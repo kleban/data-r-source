@@ -1,0 +1,25 @@
+---
+author: "Юрій Клебан"
+date: "`r Sys.Date()`"
+date-format: short
+---
+
+# Загальна інформація + презентація
+
+## Мета заняття
+
+Розглянути осноновні типи джерел даних, їх структуру, сервіси, бібліотеки та способи завантаження/вивантаження у R.
+
+---
+
+## Короткий опис
+
+Матеріали розділу містять інформацію про структуру файлів у форматах `CSV`, `XML`, `XLSX`, `JSON`, а також способи читання інформації з `API`, `chatGPT 3.5`. Окрім того розглянуто також можливості читання запису `SQL` (на прикладі `SQLite`) та веб-сторінок (`HTML`).
+
+---
+
+<iframe src="https://onedrive.live.com/embed?resid=A1340BA71B3F0AA%214440&amp;authkey=%21ACTG-v7aj-0tkJQ&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">Це вбудований документ <a target="_blank" href="https://office.com">Microsoft Office</a> на платформі <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+---
+
+

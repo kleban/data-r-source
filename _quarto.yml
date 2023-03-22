@@ -18,26 +18,25 @@ book:
   chapters:
     - index.qmd
     - 00-intro.qmd
-   # - part: "Основи роботи в R"
-   #   chapters:
-   #     - 01-what-is-r.qmd
-   #     - 02-r-history.qmd
-   #     - 03-r-environment.qmd
-   #     - 04-r-help.qmd
-    #    - 05-r-packages.qmd
-    #    - 06-r-input-output.qmd
-    #- part: "Базовий синтаксис R"
-    #  chapters: 
-   #     - 07-r-variables.qmd
-   #     - 08-r-basic-types.qmd
-   #     - 09-r-operators.qmd
-   #     - 10-r-conditions-if-else.qmd
-    #    - 11-r-loops.qmd
-   #     - 12-userful-math.qmd
-   #     - 13-r-functions.qmd
-    #- part: "Робота з даними у R"
-    #  chapters: 
-     #   - 14-r-vectors.ipynb
+    - part: "ТЕМА 1. ВСТУП ДО РОБОТИ З ДАНИМИ"
+      chapters:
+        - 10-r-data-read-intro.qmd
+    - part: "ТЕМА 2. ЧИТАННЯ ДАНИХ"
+      chapters: 
+         - 20-r-data-read-intro.qmd
+         - 22-r-csv.ipynb
+         - 23-r-xlsx.ipynb
+         - 24-r-xml.ipynb
+         - 25-r-api-json.ipynb
+         - 26-r-google.ipynb
+         - 27-r-sql.ipynb
+         - 28-r-html.ipynb  
+    - part: "ТЕМА 3. ВИБІРКА ТА ТРАНСФОРМАЦІЯ ДАНИХ"
+      chapters: 
+         - etl-dplyr.ipynb
+    - part: "ТЕМА 4. СПОСОБИ ОЧИСТКИ ДАНИХ"
+      chapters: 
+         - data-cleaning.ipynb
      #   - 15-r-matrices.ipynb
    #    - 16-r-factors.ipynb
    #     - 17-r-data-frames.ipynb
