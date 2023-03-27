@@ -31,9 +31,18 @@ book:
          - 26-r-google.ipynb
          - 27-r-sql.ipynb
          - 28-r-html.ipynb  
-    - part: "ТЕМА 3. ВИБІРКА ТА ТРАНСФОРМАЦІЯ ДАНИХ"
+    - part: "ТЕМА 3. МАНІПУЛЮВАННЯ  ДАНИМИ У `dplyr`"
       chapters: 
-         - etl-dplyr.ipynb
+         - 30-r-what-is-dplyr.ipynb
+         - 31-r-data-explore.ipynb
+         - 32-r-data-slice.ipynb
+         - 33-r-data-sorting.ipynb
+         - 34-r-data-mutating.ipynb
+         - 35-r-data-rename.ipynb
+         - 36-r-data-grouping.ipynb
+         - 37-r-data-bind.ipynb
+         - 38-r-data-join.ipynb
+         - 39-r-wide-to-long.ipynb
     - part: "ТЕМА 4. СПОСОБИ ОЧИСТКИ ДАНИХ"
       chapters: 
          - data-cleaning.ipynb
