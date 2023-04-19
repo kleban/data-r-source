@@ -45,7 +45,11 @@ book:
          - 39-r-wide-to-long.ipynb
     - part: "ТЕМА 4. СПОСОБИ ОЧИСТКИ ДАНИХ"
       chapters: 
-         - data-cleaning.ipynb
+         - 40-r-data-quality.ipynb
+         - 41-r-data-naming.ipynb
+         - 42-r-cleaning-text.ipynb
+         - 43-r-missing-data.ipynb
+         - 44-r-outliers.ipynb
      #   - 15-r-matrices.ipynb
    #    - 16-r-factors.ipynb
    #     - 17-r-data-frames.ipynb
