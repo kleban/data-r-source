@@ -50,14 +50,12 @@ book:
          - 42-r-cleaning-text.ipynb
          - 43-r-missing-data.ipynb
          - 44-r-outliers.ipynb
-     #   - 15-r-matrices.ipynb
-   #    - 16-r-factors.ipynb
-   #     - 17-r-data-frames.ipynb
-   #     - 18-r-lists.ipynb
-    #    - 19-r-apply-functions.ipynb
-   # - part: "Основи статистики в R"
-   # - tasks.qmd
-   # - solved-tasks.qmd   
+    - part: "ТЕМА 5. КОНСТРУЮВАННЯ ОЗНАК"
+      chapters: 
+         - etl-feature-engineering.ipynb
+    - part: "ТЕМА 6. ПОДІЛ ВИБІРКИ"
+      chapters: 
+         - train-test-validation-samples.ipynb
     - references.qmd
   page-navigation: true
   page-footer: "Copyright 2023, Юрій Клебан" 
