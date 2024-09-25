@@ -56,9 +56,15 @@ book:
     - part: "ТЕМА 6. ПОДІЛ ВИБІРКИ"
       chapters: 
          - train-test-validation-samples.ipynb
+    - part: "ТЕМА 7. ОГЛЯДОВИЙ АНАЛІЗ ДАНИХ"
+      chapters: 
+         - eda.ipynb
+         - eda-charts.ipynb
+         - eda-dlookr.ipynb
+         - edainspectdf.ipynb
     - references.qmd
   page-navigation: true
-  page-footer: "Copyright 2023, Юрій Клебан" 
+  page-footer: "Copyright 2024, Юрій Клебан" 
     
 language: _language-ua.yml 
 
@@ -74,10 +80,10 @@ format:
     toc: true
     highlight-style: github
     code-line-numbers: true
-  pdf:
-    toc: true
-    number-sections: true
-    colorlinks: true
+  #pdf:
+   # toc: true
+   # number-sections: true
+   # colorlinks: true
 
 crossref:
   tbl-title: 'Таблиця'
